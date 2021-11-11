@@ -1,0 +1,4 @@
+open MYSQL in the terminal of the db directory and run " SOURCE schema.sql"
+exit and return to the main directory
+run "npm run seed" to seed the database
+run "npm start" to start the application server
