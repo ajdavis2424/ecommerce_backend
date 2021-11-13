@@ -1,7 +1,9 @@
 # ecommerce_backend
-    ##Description
+
+## Description
     Build the back end for an e-commerce site by modifying starter code. You’ll configure a working Express.js API to use Sequelize to interact with a MySQL database."
-    ##Table of Contents
+
+# Table of Contents
     |                               |                         |
     | ----------------------------- | ----------------------- |
     | [Deloyed Project](#deployed)  | [Questions](#questions) |
@@ -10,14 +12,14 @@
     | [Usage](#usage)               |                         |
     |                               |                         |
     
-    ##Installation
+## Installation
     node 
     npm init
     npm install mysql2
     npm install express
     npm install sequelize
 
-    ##Usage
+## Usage
     To use this command line tool,
 
     1) Open MYSQL in the terminal of the db directory and run " SOURCE schema.sql"
@@ -25,19 +27,21 @@
     3) run "npm run seed" to seed the database
     4) run "npm start" to start the application server
 
-    ##Contributing
+## Contributing
     Alexander J. Davis
     
-    ##Questions
+## Questions
     Questions regarding this project:
     
-    GitHub profile: https://github.com/ajdavis2424
-    Email: ajdavis2424@gmail.com
+## GitHub profile: https://github.com/ajdavis2424
     
-    ##License
+## Email: ajdavis2424@gmail.com
+    
+## License
     This project is licensed under the MIT License
     [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
     MIT
-    ##Deployed Project Link
+ 
+ ## Deployed Project Link
     
   
