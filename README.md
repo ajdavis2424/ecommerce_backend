@@ -43,5 +43,5 @@
     MIT
  
  ## Deployed Project Link
-    
-  
+    https://github.com/ajdavis2424/ecommerce_backend 
+    https://youtu.be/oCNbJoeOs2E
